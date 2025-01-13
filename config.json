@@ -1,0 +1,8 @@
+{
+    "token": "", // add your token
+    "prefix": "!", // change prefex if needed
+    "welcome_channel_id": , 
+    "boost_channel_id": ,
+    "suggestions_channel_id": ,
+    "bug_reports_channel_id":    
+} 
